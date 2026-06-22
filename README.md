@@ -18,3 +18,6 @@ Network: VirtualBox Host-Only + NAT
 -Wazuh SIEM deployed
 -Windows-victim agent connected
 -Kali Linux attacker machine configured
+
+<img width="1876" height="957" alt="wazuh-dashboard" src="https://github.com/user-attachments/assets/2c540386-52f8-48eb-a6e3-754666c5807b" />
+
